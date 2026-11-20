@@ -1,6 +1,6 @@
 # Hi, I'm Sanjana Kumari 👋
 
-**B.Tech CSE (AI/ML) Student | Aspiring Full-Stack Developer & AI/ML Enthusiast passionate about software development, artificial intelligence, and building practical technology solutions.
+**B.Tech CSE (AI/ML) Student | Aspiring Full-Stack Developer & AI/ML Enthusiast** passionate about software development, artificial intelligence, and building practical technology solutions.
 
 Based in India · Pursuing B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning) at Sitamarhi Institute of Technology · Focused on learning, building projects, and growing as a Software Engineer.
 ***
